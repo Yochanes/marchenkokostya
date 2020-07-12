@@ -1,2 +1,1 @@
-# marchenkokostya
-Web site CV
+Моё личное резюме.
